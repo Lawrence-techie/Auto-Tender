@@ -1,0 +1,155 @@
+{
+  "blank_pdf": "KURA Mbale.pdf",
+  "filled_pdf": "Kura trippier mbale.pdf",
+  "field_mappings": {
+    "company_name": {
+      "blank": "",
+      "filled": "_________________",
+      "description": "Company name field"
+    },
+    "registration_number": {
+      "blank": "",
+      "filled": "______________________________",
+      "description": "Company registration number"
+    },
+    "contact_person": {
+      "blank": "",
+      "filled": "_____________________________________",
+      "description": "Primary contact person"
+    },
+    "phone": {
+      "blank": "",
+      "filled": "________________________",
+      "description": "Contact phone number"
+    },
+    "email": {
+      "blank": "",
+      "filled": "___________________________",
+      "description": "Contact email address"
+    },
+    "address": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+      "description": "Company address"
+    },
+    "tax_id": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...",
+      "description": "Tax identification number"
+    },
+    "directors": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...",
+      "description": "Company directors"
+    },
+    "signature": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+      "description": "Authorized signature"
+    },
+    "annual_turnover": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...",
+      "description": "Annual financial turnover"
+    },
+    "bank_reference": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+      "description": "Bank reference letter"
+    },
+    "credit_facility": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "description": "Credit facility details"
+    },
+    "financial_capacity": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.",
+      "description": "Financial capacity proof"
+    },
+    "bank_guarantee": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "description": "Bank guarantee details"
+    },
+    "insurance": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "description": "Insurance coverage details"
+    },
+    "similar_projects": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "description": "Similar completed projects"
+    },
+    "project_value": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "description": "Value of similar projects"
+    },
+    "completion_date": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "description": "Project completion dates"
+    },
+    "client_reference": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "description": "Client reference contacts"
+    },
+    "equipment": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "description": "Available equipment"
+    },
+    "personnel": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "description": "Technical personnel"
+    },
+    "methodology": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "description": "Project methodology"
+    },
+    "timeline": {
+      "blank": "",
+      "filled": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "description": "Project timeline"
+    }
+  },
+  "categories": {
+    "Company Information": [
+      "company_name",
+      "registration_number",
+      "contact_person",
+      "phone",
+      "email",
+      "address",
+      "tax_id",
+      "directors",
+      "signature"
+    ],
+    "Financial Information": [
+      "annual_turnover",
+      "bank_reference",
+      "credit_facility",
+      "financial_capacity",
+      "bank_guarantee",
+      "insurance"
+    ],
+    "Experience Information": [
+      "similar_projects",
+      "project_value",
+      "completion_date",
+      "client_reference"
+    ],
+    "Technical Information": [
+      "equipment",
+      "personnel",
+      "methodology",
+      "timeline"
+    ]
+  },
+  "total_fields": 23
+}

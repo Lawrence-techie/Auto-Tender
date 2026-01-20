@@ -1,0 +1,33 @@
+{
+  "company_info": {
+    "company_name": "",
+    "registration_number": "",
+    "contact_person": "",
+    "phone": "",
+    "email": "",
+    "address": "",
+    "tax_id": "",
+    "directors": "",
+    "signature": ""
+  },
+  "financial_info": {
+    "annual_turnover": "",
+    "bank_reference": "",
+    "credit_facility": "",
+    "financial_capacity": "",
+    "bank_guarantee": "",
+    "insurance": ""
+  },
+  "experience_info": {
+    "similar_projects": "",
+    "project_value": "",
+    "completion_date": "",
+    "client_reference": ""
+  },
+  "technical_info": {
+    "equipment": "",
+    "personnel": "",
+    "methodology": "",
+    "timeline": ""
+  }
+}

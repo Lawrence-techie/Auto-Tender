@@ -1,0 +1,189 @@
+{
+  "template_id": "kura_tender_2024",
+  "template_name": "KURA Tender 2024",
+  "pages": "47-90",
+  "fields": {
+    "field_1": {
+      "name": "tender_number",
+      "category": "document_info",
+      "placeholder": "kura/rmlf/we/127/2024-2025",
+      "type": "text",
+      "required": true
+    },
+    "field_2": {
+      "name": "addendum_number",
+      "category": "document_info",
+      "placeholder": "no.5",
+      "type": "text",
+      "required": true
+    },
+    "field_3": {
+      "name": "date",
+      "category": "document_info",
+      "placeholder": "19th september, 2024",
+      "type": "text",
+      "required": true
+    },
+    "field_4": {
+      "name": "company_name",
+      "category": "company_info",
+      "placeholder": "_________________",
+      "type": "text",
+      "required": true
+    },
+    "field_5": {
+      "name": "registration_number",
+      "category": "company_info",
+      "placeholder": "______________________________",
+      "type": "text",
+      "required": true
+    },
+    "field_6": {
+      "name": "contact_person",
+      "category": "company_info",
+      "placeholder": "_____________________________________",
+      "type": "text",
+      "required": true
+    },
+    "field_7": {
+      "name": "phone",
+      "category": "company_info",
+      "placeholder": "________________________",
+      "type": "text",
+      "required": true
+    },
+    "field_8": {
+      "name": "email",
+      "category": "company_info",
+      "placeholder": "___________________________",
+      "type": "text",
+      "required": true
+    },
+    "field_9": {
+      "name": "address",
+      "category": "company_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+      "type": "text",
+      "required": true
+    },
+    "field_10": {
+      "name": "tax_id",
+      "category": "company_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...",
+      "type": "text",
+      "required": true
+    },
+    "field_11": {
+      "name": "directors",
+      "category": "company_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...",
+      "type": "text",
+      "required": true
+    },
+    "field_12": {
+      "name": "signature",
+      "category": "company_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+      "type": "text",
+      "required": true
+    },
+    "field_13": {
+      "name": "annual_turnover",
+      "category": "financial_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...",
+      "type": "text",
+      "required": true
+    },
+    "field_14": {
+      "name": "bank_reference",
+      "category": "financial_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+      "type": "text",
+      "required": true
+    },
+    "field_15": {
+      "name": "credit_facility",
+      "category": "financial_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "type": "text",
+      "required": true
+    },
+    "field_16": {
+      "name": "financial_capacity",
+      "category": "financial_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.",
+      "type": "text",
+      "required": true
+    },
+    "field_17": {
+      "name": "bank_guarantee",
+      "category": "financial_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "type": "text",
+      "required": true
+    },
+    "field_18": {
+      "name": "insurance",
+      "category": "financial_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "type": "text",
+      "required": true
+    },
+    "field_19": {
+      "name": "similar_projects",
+      "category": "experience_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "type": "text",
+      "required": true
+    },
+    "field_20": {
+      "name": "project_value",
+      "category": "experience_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "type": "text",
+      "required": true
+    },
+    "field_21": {
+      "name": "completion_date",
+      "category": "experience_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "type": "text",
+      "required": true
+    },
+    "field_22": {
+      "name": "client_reference",
+      "category": "experience_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "type": "text",
+      "required": true
+    },
+    "field_23": {
+      "name": "equipment",
+      "category": "technical_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "type": "text",
+      "required": true
+    },
+    "field_24": {
+      "name": "personnel",
+      "category": "technical_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "type": "text",
+      "required": true
+    },
+    "field_25": {
+      "name": "methodology",
+      "category": "technical_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "type": "text",
+      "required": true
+    },
+    "field_26": {
+      "name": "timeline",
+      "category": "technical_info",
+      "placeholder": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+      "type": "text",
+      "required": true
+    }
+  }
+}
